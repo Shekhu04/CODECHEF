@@ -7,6 +7,7 @@ int main() {
 	for(int i=0;i<t;i++)
 	{
 	    int a;
+		int b;
 	    cin>>a;
 	    cout<<a-10<<endl;
 	}
