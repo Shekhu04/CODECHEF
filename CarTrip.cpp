@@ -11,6 +11,7 @@ for(int i=0;i<t;i++)
         int d;
         d=x*10;
         cout<<d<<endl;
+	    cout<<endl;
     }
     else cout<<"3000"<<endl;
 }
